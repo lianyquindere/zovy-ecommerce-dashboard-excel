@@ -1,0 +1,501 @@
+﻿ID_Pedido,Data_Pedido,ID_Cliente,Estado,Categoria,Produto,Quantidade,Preco_Unitario,Custo_Unitario,Valor_Total,Custo_Total,Margem_Lucro,Forma_Pagamento,Status_Pedido
+ZOV-1001,2026-09-11 04:03:12,CUST-106,RJ,Acessórios,Shoulder Bag Tactical ZOVY,2,129.9,40.0,259.8,80.0,179.8,Cartão de Crédito,Aprovado
+ZOV-1002,2026-06-10 08:54:58,CUST-157,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Entregue
+ZOV-1003,2026-10-06 03:43:54,CUST-273,SP,Acessórios,Shoulder Bag Tactical ZOVY,2,129.9,40.0,259.8,80.0,179.8,Pix,Aprovado
+ZOV-1004,2026-08-18 03:09:55,CUST-251,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1005,2026-04-09 01:05:05,CUST-123,MG,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1006,2026-05-30 18:23:57,CUST-254,RS,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Aprovado
+ZOV-1007,2026-08-22 07:14:22,CUST-283,MG,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Boleto Bancário,Inadimplente
+ZOV-1008,2026-05-27 16:21:18,CUST-250,RS,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1009,2026-04-02 05:48:46,CUST-278,SP,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Boleto Bancário,Entregue
+ZOV-1010,2026-06-27 10:07:01,CUST-139,PR,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Aprovado
+ZOV-1011,2026-10-13 12:15:18,CUST-126,PE,Calças,Calça Cargo Wide Leg Black,3,249.9,80.0,749.7,240.0,509.7,Boleto Bancário,Entregue
+ZOV-1012,2026-07-07 03:31:16,CUST-191,DF,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1013,2026-09-02 09:37:51,CUST-306,RJ,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1014,2026-10-04 16:43:37,CUST-237,MG,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Cancelado
+ZOV-1015,2026-07-06 02:52:08,CUST-241,RS,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1016,2026-09-08 22:31:10,CUST-326,SC,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Aprovado
+ZOV-1017,2026-08-26 07:00:03,CUST-280,BA,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1018,2026-04-12 08:17:51,CUST-297,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Boleto Bancário,Entregue
+ZOV-1019,2026-04-21 08:28:32,CUST-321,SP,Calças,Calça Cargo Wide Leg Black,2,249.9,80.0,499.8,160.0,339.8,Cartão de Crédito,Entregue
+ZOV-1020,2026-07-07 10:07:14,CUST-216,RJ,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Aprovado
+ZOV-1021,2026-07-03 05:55:19,CUST-194,SP,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1022,2026-05-24 09:43:13,CUST-279,SP,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1023,2026-09-03 23:07:07,CUST-143,SP,Camisetas,Camiseta Oversized Minimalist White,3,139.9,45.0,419.7,135.0,284.7,Cartão de Crédito,Entregue
+ZOV-1024,2026-05-12 16:49:49,CUST-197,BA,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Boleto Bancário,Entregue
+ZOV-1025,2026-09-11 20:16:40,CUST-156,RS,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Pix,Aprovado
+ZOV-1026,2026-06-23 02:02:11,CUST-158,RJ,Calças,Calça Cargo Wide Leg Black,2,249.9,80.0,499.8,160.0,339.8,Pix,Entregue
+ZOV-1027,2026-06-20 14:36:21,CUST-168,RJ,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1028,2026-05-25 20:39:01,CUST-324,SP,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Pix,Cancelado
+ZOV-1029,2026-06-20 07:44:29,CUST-267,PE,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1030,2026-07-11 23:24:19,CUST-217,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Aprovado
+ZOV-1031,2026-06-07 05:05:01,CUST-163,DF,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Cancelado
+ZOV-1032,2026-10-09 21:17:02,CUST-209,SP,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Pix,Entregue
+ZOV-1033,2026-07-12 13:10:47,CUST-156,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Aprovado
+ZOV-1034,2026-08-09 17:58:06,CUST-123,BA,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1035,2026-04-29 05:33:53,CUST-260,PR,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1036,2026-09-22 15:22:13,CUST-252,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Boleto Bancário,Entregue
+ZOV-1037,2026-07-08 13:53:39,CUST-252,SP,Camisetas,Camiseta Graphic Streetwear Off-White,3,169.9,55.0,509.7,165.0,344.7,Cartão de Crédito,Entregue
+ZOV-1038,2026-08-14 09:09:13,CUST-348,PR,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Aprovado
+ZOV-1039,2026-04-03 04:10:14,CUST-274,SP,Calças,Calça Denim Straight Fit Dark Wash,3,279.9,90.0,839.7,270.0,569.7,Cartão de Crédito,Entregue
+ZOV-1040,2026-10-10 09:42:53,CUST-296,SP,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Boleto Bancário,Inadimplente
+ZOV-1041,2026-06-27 04:03:41,CUST-175,PR,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Boleto Bancário,Cancelado
+ZOV-1042,2026-05-11 16:31:10,CUST-100,SP,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Pix,Aprovado
+ZOV-1043,2026-08-07 06:30:16,CUST-229,MG,Moletons,Hoodie Oversized Essential Black,2,289.9,95.0,579.8,190.0,389.8,Pix,Entregue
+ZOV-1044,2026-09-08 10:51:57,CUST-315,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Entregue
+ZOV-1045,2026-05-10 13:36:49,CUST-295,PR,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Aprovado
+ZOV-1046,2026-08-17 19:18:34,CUST-335,SP,Acessórios,Boné Dad Hat ZOVY Black,1,89.9,25.0,89.9,25.0,64.9,Boleto Bancário,Cancelado
+ZOV-1047,2026-09-01 11:48:07,CUST-225,RS,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Aprovado
+ZOV-1048,2026-04-29 13:12:56,CUST-324,SC,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Aprovado
+ZOV-1049,2026-06-01 02:06:32,CUST-161,PE,Acessórios,Shoulder Bag Tactical ZOVY,3,129.9,40.0,389.7,120.0,269.7,Pix,Aprovado
+ZOV-1050,2026-04-21 03:07:06,CUST-287,DF,Camisetas,Camiseta Graphic Streetwear Off-White,3,169.9,55.0,509.7,165.0,344.7,Boleto Bancário,Inadimplente
+ZOV-1051,2026-04-18 19:23:42,CUST-296,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1052,2026-05-03 17:18:16,CUST-342,MG,Acessórios,Shoulder Bag Tactical ZOVY,2,129.9,40.0,259.8,80.0,179.8,Cartão de Crédito,Aprovado
+ZOV-1053,2026-05-13 09:39:01,CUST-235,MG,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Entregue
+ZOV-1054,2026-07-18 07:42:40,CUST-337,SC,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Pix,Aprovado
+ZOV-1055,2026-10-11 07:19:25,CUST-282,RS,Calças,Calça Sweatpants Oversized Grey,2,219.9,70.0,439.8,140.0,299.8,Boleto Bancário,Entregue
+ZOV-1056,2026-07-12 23:39:40,CUST-195,MG,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Entregue
+ZOV-1057,2026-08-11 16:26:17,CUST-130,DF,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1058,2026-05-28 02:19:52,CUST-186,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1059,2026-08-29 20:10:03,CUST-158,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1060,2026-04-02 02:35:05,CUST-281,MG,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Aprovado
+ZOV-1061,2026-04-16 08:20:07,CUST-117,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Entregue
+ZOV-1062,2026-06-24 02:34:47,CUST-231,GO,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Entregue
+ZOV-1063,2026-06-11 17:40:24,CUST-154,RJ,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Inadimplente
+ZOV-1064,2026-10-03 20:47:27,CUST-247,PR,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1065,2026-06-02 17:13:13,CUST-306,MG,Calças,Calça Sweatpants Oversized Grey,2,219.9,70.0,439.8,140.0,299.8,Pix,Cancelado
+ZOV-1066,2026-05-19 03:26:03,CUST-124,SC,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Aprovado
+ZOV-1067,2026-07-20 12:53:58,CUST-208,RJ,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Aprovado
+ZOV-1068,2026-07-29 01:58:20,CUST-272,SP,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Pix,Aprovado
+ZOV-1069,2026-09-13 03:34:59,CUST-115,RJ,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1070,2026-10-04 12:21:13,CUST-304,MG,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1071,2026-06-03 06:58:32,CUST-148,MG,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Pix,Aprovado
+ZOV-1072,2026-07-24 05:06:13,CUST-208,PR,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Entregue
+ZOV-1073,2026-06-11 16:50:37,CUST-163,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Cancelado
+ZOV-1074,2026-07-23 20:02:12,CUST-125,RJ,Acessórios,Boné Dad Hat ZOVY Black,3,89.9,25.0,269.7,75.0,194.7,Pix,Aprovado
+ZOV-1075,2026-09-14 19:40:55,CUST-314,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Aprovado
+ZOV-1076,2026-04-24 08:36:22,CUST-142,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Entregue
+ZOV-1077,2026-08-03 17:31:32,CUST-154,SP,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1078,2026-04-16 05:59:39,CUST-197,RS,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1079,2026-07-09 09:39:20,CUST-337,GO,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1080,2026-06-13 15:24:04,CUST-278,DF,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Entregue
+ZOV-1081,2026-10-18 20:14:05,CUST-269,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Entregue
+ZOV-1082,2026-08-03 05:38:09,CUST-148,DF,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Aprovado
+ZOV-1083,2026-05-26 02:07:45,CUST-248,SP,Acessórios,Shoulder Bag Tactical ZOVY,3,129.9,40.0,389.7,120.0,269.7,Cartão de Crédito,Entregue
+ZOV-1084,2026-08-17 02:13:09,CUST-291,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1085,2026-04-15 01:49:32,CUST-249,RS,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Aprovado
+ZOV-1086,2026-08-07 19:20:15,CUST-140,MG,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1087,2026-08-09 02:55:00,CUST-317,SP,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Pix,Aprovado
+ZOV-1088,2026-04-18 21:39:52,CUST-117,SC,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Aprovado
+ZOV-1089,2026-07-13 04:21:53,CUST-341,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Pix,Entregue
+ZOV-1090,2026-06-03 21:04:40,CUST-252,PE,Acessórios,Boné Dad Hat ZOVY Black,2,89.9,25.0,179.8,50.0,129.8,Pix,Aprovado
+ZOV-1091,2026-09-06 02:59:05,CUST-207,RS,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Boleto Bancário,Entregue
+ZOV-1092,2026-08-28 20:34:45,CUST-233,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Aprovado
+ZOV-1093,2026-06-06 07:26:12,CUST-271,SP,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Cartão de Crédito,Cancelado
+ZOV-1094,2026-06-20 08:41:25,CUST-167,RJ,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Cancelado
+ZOV-1095,2026-05-04 23:30:07,CUST-176,SP,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Boleto Bancário,Entregue
+ZOV-1096,2026-06-20 02:38:28,CUST-102,GO,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Boleto Bancário,Entregue
+ZOV-1097,2026-09-07 20:29:52,CUST-125,PR,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Entregue
+ZOV-1098,2026-08-16 07:45:38,CUST-229,DF,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Inadimplente
+ZOV-1099,2026-05-04 12:42:25,CUST-325,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1100,2026-06-02 13:27:14,CUST-172,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Boleto Bancário,Inadimplente
+ZOV-1101,2026-07-22 19:46:40,CUST-280,PR,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1102,2026-09-04 23:48:37,CUST-235,SP,Acessórios,Boné Dad Hat ZOVY Black,2,89.9,25.0,179.8,50.0,129.8,Boleto Bancário,Cancelado
+ZOV-1103,2026-09-18 20:11:32,CUST-176,MG,Camisetas,Camiseta Oversized Basic Black,3,139.9,45.0,419.7,135.0,284.7,Cartão de Crédito,Aprovado
+ZOV-1104,2026-05-05 09:37:44,CUST-129,SP,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Boleto Bancário,Entregue
+ZOV-1105,2026-10-08 20:08:32,CUST-139,MG,Camisetas,Camiseta Heavyweight Urban Grey,3,159.9,52.0,479.7,156.0,323.7,Cartão de Crédito,Entregue
+ZOV-1106,2026-06-12 22:01:16,CUST-153,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1107,2026-05-23 23:05:30,CUST-318,RS,Acessórios,Benei Beanie Streetwear Grey,4,79.9,22.0,319.6,88.0,231.6,Cartão de Crédito,Entregue
+ZOV-1108,2026-08-08 17:47:12,CUST-164,PE,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Pix,Aprovado
+ZOV-1109,2026-04-24 23:05:36,CUST-208,PE,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1110,2026-04-12 00:07:44,CUST-185,RJ,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Entregue
+ZOV-1111,2026-09-11 09:32:15,CUST-141,MG,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Entregue
+ZOV-1112,2026-07-23 20:05:09,CUST-280,RJ,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1113,2026-08-22 00:21:07,CUST-128,SC,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1114,2026-09-24 05:25:36,CUST-239,MG,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Entregue
+ZOV-1115,2026-07-04 21:12:30,CUST-241,MG,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Cartão de Crédito,Entregue
+ZOV-1116,2026-07-20 04:38:24,CUST-110,PE,Camisetas,Camiseta Heavyweight Urban Grey,3,159.9,52.0,479.7,156.0,323.7,Pix,Aprovado
+ZOV-1117,2026-07-03 01:27:09,CUST-330,RJ,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Pix,Entregue
+ZOV-1118,2026-05-24 09:05:06,CUST-270,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Aprovado
+ZOV-1119,2026-06-30 20:23:05,CUST-326,SP,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1120,2026-09-06 05:37:37,CUST-336,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Aprovado
+ZOV-1121,2026-05-12 06:26:46,CUST-325,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1122,2026-04-07 06:31:49,CUST-288,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1123,2026-10-18 14:59:24,CUST-305,SP,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Pix,Entregue
+ZOV-1124,2026-10-06 09:02:07,CUST-168,DF,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1125,2026-10-19 03:56:08,CUST-197,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1126,2026-07-30 08:05:54,CUST-151,RJ,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Pix,Aprovado
+ZOV-1127,2026-06-29 11:06:41,CUST-310,SC,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Cartão de Crédito,Aprovado
+ZOV-1128,2026-05-28 00:51:41,CUST-268,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1129,2026-07-12 11:57:05,CUST-171,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Aprovado
+ZOV-1130,2026-10-15 10:09:45,CUST-189,DF,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Cartão de Crédito,Entregue
+ZOV-1131,2026-08-09 14:33:06,CUST-273,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1132,2026-06-24 01:00:17,CUST-129,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1133,2026-05-16 21:08:19,CUST-346,RJ,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Pix,Aprovado
+ZOV-1134,2026-04-10 03:56:48,CUST-252,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1135,2026-06-28 11:25:14,CUST-211,SP,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Entregue
+ZOV-1136,2026-08-09 04:12:37,CUST-198,GO,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Inadimplente
+ZOV-1137,2026-06-05 01:36:57,CUST-281,RS,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1138,2026-04-01 18:55:46,CUST-336,MG,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Aprovado
+ZOV-1139,2026-09-23 07:10:25,CUST-193,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1140,2026-04-18 12:01:19,CUST-259,MG,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1141,2026-09-17 04:32:14,CUST-284,MG,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Aprovado
+ZOV-1142,2026-08-08 11:15:38,CUST-270,GO,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Entregue
+ZOV-1143,2026-06-23 14:39:03,CUST-278,SC,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1144,2026-08-20 04:38:03,CUST-149,DF,Calças,Calça Sweatpants Oversized Grey,3,219.9,70.0,659.7,210.0,449.7,Pix,Entregue
+ZOV-1145,2026-09-18 13:48:15,CUST-273,DF,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1146,2026-09-05 20:43:13,CUST-177,BA,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Aprovado
+ZOV-1147,2026-08-19 00:00:53,CUST-177,SP,Calças,Calça Sweatpants Oversized Grey,2,219.9,70.0,439.8,140.0,299.8,Cartão de Crédito,Entregue
+ZOV-1148,2026-05-24 15:39:06,CUST-301,BA,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Pix,Entregue
+ZOV-1149,2026-07-29 16:05:05,CUST-213,RJ,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Aprovado
+ZOV-1150,2026-08-09 17:13:41,CUST-303,DF,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Cancelado
+ZOV-1151,2026-09-16 03:05:14,CUST-172,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Pix,Aprovado
+ZOV-1152,2026-09-17 23:02:40,CUST-258,RS,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Boleto Bancário,Inadimplente
+ZOV-1153,2026-04-24 08:33:04,CUST-272,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Aprovado
+ZOV-1154,2026-05-28 07:15:00,CUST-137,MG,Calças,Calça Cargo Wide Leg Black,2,249.9,80.0,499.8,160.0,339.8,Pix,Entregue
+ZOV-1155,2026-04-12 08:54:52,CUST-221,SP,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Pix,Entregue
+ZOV-1156,2026-10-14 02:39:05,CUST-216,SP,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Cartão de Crédito,Entregue
+ZOV-1157,2026-09-09 20:57:34,CUST-149,PR,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Aprovado
+ZOV-1158,2026-09-26 13:58:48,CUST-226,DF,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1159,2026-06-02 05:22:22,CUST-267,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Aprovado
+ZOV-1160,2026-04-02 03:52:50,CUST-299,BA,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Cartão de Crédito,Entregue
+ZOV-1161,2026-05-27 06:24:13,CUST-305,SC,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1162,2026-04-13 20:17:40,CUST-163,SC,Acessórios,Boné Dad Hat ZOVY Black,3,89.9,25.0,269.7,75.0,194.7,Pix,Aprovado
+ZOV-1163,2026-07-26 04:51:17,CUST-305,GO,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Boleto Bancário,Inadimplente
+ZOV-1164,2026-09-18 19:20:16,CUST-243,MG,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Entregue
+ZOV-1165,2026-06-21 16:06:48,CUST-256,RS,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1166,2026-08-19 16:14:06,CUST-329,DF,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1167,2026-10-08 17:16:56,CUST-215,SP,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1168,2026-10-10 09:00:06,CUST-315,RJ,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Entregue
+ZOV-1169,2026-06-10 18:58:47,CUST-224,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Boleto Bancário,Entregue
+ZOV-1170,2026-06-01 09:59:52,CUST-212,RJ,Camisetas,Camiseta Oversized Basic Black,4,139.9,45.0,559.6,180.0,379.6,Cartão de Crédito,Entregue
+ZOV-1171,2026-09-30 10:24:10,CUST-160,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Boleto Bancário,Entregue
+ZOV-1172,2026-06-25 11:38:24,CUST-328,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Aprovado
+ZOV-1173,2026-05-06 05:29:29,CUST-159,RS,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1174,2026-09-25 05:33:48,CUST-280,MG,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Cancelado
+ZOV-1175,2026-04-17 15:06:17,CUST-204,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Aprovado
+ZOV-1176,2026-08-17 16:57:49,CUST-206,SP,Calças,Calça Cargo Wide Leg Black,2,249.9,80.0,499.8,160.0,339.8,Pix,Aprovado
+ZOV-1177,2026-05-23 15:17:49,CUST-199,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Entregue
+ZOV-1178,2026-09-26 00:42:40,CUST-319,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Aprovado
+ZOV-1179,2026-07-07 17:21:58,CUST-101,SC,Calças,Calça Sweatpants Oversized Grey,2,219.9,70.0,439.8,140.0,299.8,Pix,Entregue
+ZOV-1180,2026-06-16 14:11:56,CUST-318,SP,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Aprovado
+ZOV-1181,2026-08-16 19:53:02,CUST-304,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1182,2026-08-03 07:59:20,CUST-169,DF,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Entregue
+ZOV-1183,2026-08-03 01:03:24,CUST-199,MG,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1184,2026-09-19 14:43:14,CUST-285,RJ,Camisetas,Camiseta Oversized Minimalist White,3,139.9,45.0,419.7,135.0,284.7,Cartão de Crédito,Aprovado
+ZOV-1185,2026-07-29 04:38:48,CUST-259,BA,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Cartão de Crédito,Entregue
+ZOV-1186,2026-04-07 14:20:45,CUST-251,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1187,2026-04-22 23:24:06,CUST-209,SP,Calças,Calça Cargo Wide Leg Black,4,249.9,80.0,999.6,320.0,679.6,Cartão de Crédito,Aprovado
+ZOV-1188,2026-07-28 06:36:59,CUST-112,SP,Camisetas,Camiseta Heavyweight Urban Grey,3,159.9,52.0,479.7,156.0,323.7,Pix,Entregue
+ZOV-1189,2026-07-07 11:55:06,CUST-154,SP,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Cartão de Crédito,Aprovado
+ZOV-1190,2026-06-23 12:17:16,CUST-294,SP,Camisetas,Camiseta Graphic Streetwear Off-White,3,169.9,55.0,509.7,165.0,344.7,Cartão de Crédito,Entregue
+ZOV-1191,2026-06-11 15:20:55,CUST-164,MG,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Boleto Bancário,Entregue
+ZOV-1192,2026-07-30 00:42:20,CUST-291,RJ,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Entregue
+ZOV-1193,2026-04-14 12:44:30,CUST-157,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Aprovado
+ZOV-1194,2026-04-18 23:43:46,CUST-110,RJ,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Cartão de Crédito,Entregue
+ZOV-1195,2026-06-03 07:15:30,CUST-314,PR,Acessórios,Boné Dad Hat ZOVY Black,2,89.9,25.0,179.8,50.0,129.8,Pix,Aprovado
+ZOV-1196,2026-09-07 05:32:53,CUST-161,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1197,2026-07-31 04:09:53,CUST-244,SP,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Pix,Entregue
+ZOV-1198,2026-07-29 09:19:46,CUST-296,RJ,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1199,2026-05-13 22:03:35,CUST-255,RS,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1200,2026-10-01 04:10:12,CUST-299,SP,Acessórios,Boné Dad Hat ZOVY Black,1,89.9,25.0,89.9,25.0,64.9,Boleto Bancário,Entregue
+ZOV-1201,2026-06-19 03:56:08,CUST-248,SP,Moletons,Hoodie Oversized Essential Black,2,289.9,95.0,579.8,190.0,389.8,Cartão de Crédito,Entregue
+ZOV-1202,2026-06-19 20:57:50,CUST-273,PR,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Pix,Entregue
+ZOV-1203,2026-07-11 07:13:15,CUST-119,SP,Acessórios,Shoulder Bag Tactical ZOVY,3,129.9,40.0,389.7,120.0,269.7,Pix,Entregue
+ZOV-1204,2026-09-24 22:50:13,CUST-162,DF,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Aprovado
+ZOV-1205,2026-09-26 10:58:49,CUST-317,PR,Camisetas,Camiseta Oversized Basic Black,3,139.9,45.0,419.7,135.0,284.7,Boleto Bancário,Inadimplente
+ZOV-1206,2026-08-23 01:29:43,CUST-188,RJ,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Pix,Entregue
+ZOV-1207,2026-07-19 13:29:31,CUST-117,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Aprovado
+ZOV-1208,2026-09-13 12:25:25,CUST-103,PR,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Entregue
+ZOV-1209,2026-08-04 03:50:33,CUST-210,MG,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Entregue
+ZOV-1210,2026-09-10 16:44:18,CUST-281,MG,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Aprovado
+ZOV-1211,2026-07-21 06:24:46,CUST-287,BA,Moletons,Moletom Crewneck ZOVY Arch,3,259.9,82.0,779.7,246.0,533.7,Cartão de Crédito,Cancelado
+ZOV-1212,2026-09-14 09:50:00,CUST-257,RJ,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Pix,Entregue
+ZOV-1213,2026-10-16 17:36:12,CUST-219,BA,Acessórios,Benei Beanie Streetwear Grey,2,79.9,22.0,159.8,44.0,115.8,Pix,Entregue
+ZOV-1214,2026-10-05 21:34:16,CUST-168,SC,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Aprovado
+ZOV-1215,2026-06-02 03:09:19,CUST-171,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Cancelado
+ZOV-1216,2026-06-02 16:55:10,CUST-245,RJ,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Entregue
+ZOV-1217,2026-06-26 01:02:41,CUST-226,RS,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Cancelado
+ZOV-1218,2026-05-17 17:45:04,CUST-154,RJ,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Boleto Bancário,Entregue
+ZOV-1219,2026-06-06 12:23:28,CUST-171,PE,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Aprovado
+ZOV-1220,2026-09-27 10:03:31,CUST-242,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1221,2026-08-11 06:57:22,CUST-121,SP,Acessórios,Boné Dad Hat ZOVY Black,2,89.9,25.0,179.8,50.0,129.8,Boleto Bancário,Inadimplente
+ZOV-1222,2026-10-02 14:47:51,CUST-225,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Aprovado
+ZOV-1223,2026-09-24 17:20:02,CUST-265,RS,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1224,2026-07-24 00:37:40,CUST-123,MG,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Pix,Aprovado
+ZOV-1225,2026-05-27 14:43:25,CUST-277,BA,Acessórios,Boné Dad Hat ZOVY Black,2,89.9,25.0,179.8,50.0,129.8,Cartão de Crédito,Entregue
+ZOV-1226,2026-06-18 21:10:25,CUST-194,MG,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1227,2026-08-20 19:19:48,CUST-188,SC,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1228,2026-10-08 20:02:20,CUST-184,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Entregue
+ZOV-1229,2026-09-27 16:31:13,CUST-169,RS,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Cartão de Crédito,Entregue
+ZOV-1230,2026-06-04 08:23:37,CUST-130,BA,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Cartão de Crédito,Entregue
+ZOV-1231,2026-05-20 11:29:19,CUST-130,SC,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Cartão de Crédito,Entregue
+ZOV-1232,2026-08-16 06:44:27,CUST-149,SC,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Aprovado
+ZOV-1233,2026-10-07 17:37:44,CUST-170,RS,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Aprovado
+ZOV-1234,2026-04-26 07:04:03,CUST-175,RS,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Pix,Aprovado
+ZOV-1235,2026-07-02 06:31:59,CUST-177,MG,Acessórios,Boné Dad Hat ZOVY Black,1,89.9,25.0,89.9,25.0,64.9,Pix,Entregue
+ZOV-1236,2026-09-29 19:26:50,CUST-132,MG,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Entregue
+ZOV-1237,2026-04-12 01:59:06,CUST-241,PE,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Entregue
+ZOV-1238,2026-09-26 04:35:51,CUST-263,DF,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1239,2026-04-27 00:26:47,CUST-246,SP,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Aprovado
+ZOV-1240,2026-07-30 17:25:46,CUST-212,BA,Acessórios,Benei Beanie Streetwear Grey,3,79.9,22.0,239.7,66.0,173.7,Cartão de Crédito,Aprovado
+ZOV-1241,2026-05-18 01:52:14,CUST-164,SC,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1242,2026-04-30 02:22:44,CUST-202,RS,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Cancelado
+ZOV-1243,2026-04-19 21:00:31,CUST-261,RJ,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1244,2026-04-14 05:31:27,CUST-138,SP,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Cartão de Crédito,Entregue
+ZOV-1245,2026-04-22 09:02:10,CUST-130,PE,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Boleto Bancário,Entregue
+ZOV-1246,2026-09-03 21:42:15,CUST-302,PR,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Entregue
+ZOV-1247,2026-10-16 19:01:34,CUST-197,DF,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1248,2026-07-23 10:49:34,CUST-320,RJ,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Boleto Bancário,Entregue
+ZOV-1249,2026-07-19 11:07:06,CUST-245,BA,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Cartão de Crédito,Entregue
+ZOV-1250,2026-04-16 22:11:45,CUST-345,PR,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Cancelado
+ZOV-1251,2026-10-13 07:33:55,CUST-260,RS,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1252,2026-06-07 02:57:21,CUST-140,RJ,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1253,2026-05-15 20:05:50,CUST-119,SP,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Pix,Aprovado
+ZOV-1254,2026-04-01 14:52:25,CUST-215,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1255,2026-06-14 01:11:18,CUST-159,PR,Calças,Calça Sweatpants Oversized Grey,2,219.9,70.0,439.8,140.0,299.8,Pix,Entregue
+ZOV-1256,2026-09-28 10:17:36,CUST-279,SP,Camisetas,Camiseta Graphic Streetwear Off-White,4,169.9,55.0,679.6,220.0,459.6,Pix,Entregue
+ZOV-1257,2026-04-19 08:29:55,CUST-336,MG,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Entregue
+ZOV-1258,2026-10-19 22:45:27,CUST-250,MG,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Aprovado
+ZOV-1259,2026-07-18 04:10:43,CUST-239,RJ,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1260,2026-09-13 05:25:28,CUST-332,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1261,2026-05-07 02:35:59,CUST-115,SP,Acessórios,Boné Dad Hat ZOVY Black,1,89.9,25.0,89.9,25.0,64.9,Cartão de Crédito,Entregue
+ZOV-1262,2026-06-18 21:39:53,CUST-291,BA,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Pix,Entregue
+ZOV-1263,2026-06-13 15:59:20,CUST-131,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Entregue
+ZOV-1264,2026-09-24 11:04:17,CUST-279,PR,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Pix,Aprovado
+ZOV-1265,2026-06-09 18:13:17,CUST-238,SP,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Cancelado
+ZOV-1266,2026-07-22 02:55:43,CUST-253,SP,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Entregue
+ZOV-1267,2026-07-20 11:44:07,CUST-254,MG,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Boleto Bancário,Inadimplente
+ZOV-1268,2026-04-07 03:19:30,CUST-158,PR,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1269,2026-10-13 09:48:45,CUST-247,SP,Moletons,Hoodie Oversized Essential Black,2,289.9,95.0,579.8,190.0,389.8,Cartão de Crédito,Entregue
+ZOV-1270,2026-10-13 06:22:42,CUST-220,RJ,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Boleto Bancário,Aprovado
+ZOV-1271,2026-06-11 06:36:28,CUST-249,BA,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1272,2026-09-10 17:54:11,CUST-348,BA,Acessórios,Boné Dad Hat ZOVY Black,1,89.9,25.0,89.9,25.0,64.9,Pix,Entregue
+ZOV-1273,2026-07-30 12:40:07,CUST-204,DF,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1274,2026-06-22 03:48:30,CUST-319,SP,Calças,Calça Cargo Wide Leg Black,3,249.9,80.0,749.7,240.0,509.7,Pix,Aprovado
+ZOV-1275,2026-06-24 14:59:15,CUST-277,GO,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Aprovado
+ZOV-1276,2026-06-13 14:34:48,CUST-308,BA,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1277,2026-07-26 03:12:22,CUST-180,SP,Camisetas,Camiseta Heavyweight Urban Grey,3,159.9,52.0,479.7,156.0,323.7,Pix,Entregue
+ZOV-1278,2026-06-22 04:13:14,CUST-348,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Boleto Bancário,Entregue
+ZOV-1279,2026-08-10 00:02:30,CUST-268,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1280,2026-07-15 01:58:24,CUST-148,RS,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Entregue
+ZOV-1281,2026-09-07 18:08:58,CUST-260,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1282,2026-10-12 01:52:44,CUST-152,RJ,Calças,Calça Sweatpants Oversized Grey,2,219.9,70.0,439.8,140.0,299.8,Cartão de Crédito,Entregue
+ZOV-1283,2026-08-19 04:46:12,CUST-337,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1284,2026-07-22 17:38:52,CUST-131,DF,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1285,2026-09-09 22:10:06,CUST-304,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Cancelado
+ZOV-1286,2026-09-29 05:45:58,CUST-179,PE,Camisetas,Camiseta Oversized Basic Black,3,139.9,45.0,419.7,135.0,284.7,Cartão de Crédito,Entregue
+ZOV-1287,2026-08-20 14:51:16,CUST-123,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Aprovado
+ZOV-1288,2026-04-30 16:48:02,CUST-342,SP,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1289,2026-09-13 05:36:21,CUST-227,PE,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Pix,Entregue
+ZOV-1290,2026-08-09 09:57:18,CUST-206,SP,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Boleto Bancário,Cancelado
+ZOV-1291,2026-07-30 08:52:26,CUST-216,RJ,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Cartão de Crédito,Aprovado
+ZOV-1292,2026-05-08 13:57:57,CUST-148,DF,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Pix,Entregue
+ZOV-1293,2026-08-09 04:58:12,CUST-321,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Cancelado
+ZOV-1294,2026-06-10 15:06:27,CUST-187,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Entregue
+ZOV-1295,2026-06-08 00:05:36,CUST-172,MG,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Pix,Entregue
+ZOV-1296,2026-06-16 21:22:11,CUST-248,PR,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Cartão de Crédito,Entregue
+ZOV-1297,2026-08-04 05:24:36,CUST-214,RS,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1298,2026-06-28 12:06:13,CUST-241,RJ,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Entregue
+ZOV-1299,2026-07-26 11:42:56,CUST-322,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1300,2026-09-26 08:41:40,CUST-246,PR,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1301,2026-05-30 14:57:21,CUST-111,MG,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1302,2026-10-08 17:13:13,CUST-280,RJ,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1303,2026-07-08 23:44:21,CUST-138,RS,Calças,Calça Sweatpants Oversized Grey,3,219.9,70.0,659.7,210.0,449.7,Pix,Aprovado
+ZOV-1304,2026-04-10 04:35:47,CUST-228,SP,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Pix,Entregue
+ZOV-1305,2026-06-24 03:39:14,CUST-323,SP,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Pix,Entregue
+ZOV-1306,2026-04-26 19:08:57,CUST-333,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1307,2026-04-04 05:14:54,CUST-204,SP,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Pix,Entregue
+ZOV-1308,2026-05-10 02:43:27,CUST-220,SP,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Pix,Entregue
+ZOV-1309,2026-06-26 22:41:31,CUST-277,SC,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Cancelado
+ZOV-1310,2026-09-14 02:55:27,CUST-318,RJ,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Entregue
+ZOV-1311,2026-09-20 19:25:42,CUST-197,PE,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Boleto Bancário,Entregue
+ZOV-1312,2026-09-08 17:45:56,CUST-323,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1313,2026-04-10 22:28:51,CUST-117,RJ,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1314,2026-09-09 10:27:47,CUST-158,RJ,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1315,2026-04-24 15:48:01,CUST-350,MG,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Aprovado
+ZOV-1316,2026-10-12 23:04:26,CUST-280,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1317,2026-07-23 06:03:25,CUST-277,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Cancelado
+ZOV-1318,2026-04-08 01:40:28,CUST-183,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1319,2026-06-15 13:03:04,CUST-195,PR,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Pix,Entregue
+ZOV-1320,2026-05-08 08:53:27,CUST-235,MG,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1321,2026-08-23 06:33:20,CUST-143,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Aprovado
+ZOV-1322,2026-04-21 22:11:27,CUST-322,MG,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Entregue
+ZOV-1323,2026-09-06 08:46:06,CUST-227,BA,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Entregue
+ZOV-1324,2026-05-07 08:27:13,CUST-218,PR,Acessórios,Shoulder Bag Tactical ZOVY,2,129.9,40.0,259.8,80.0,179.8,Cartão de Crédito,Entregue
+ZOV-1325,2026-06-05 16:43:56,CUST-165,RJ,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Entregue
+ZOV-1326,2026-07-29 10:28:20,CUST-273,PR,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1327,2026-04-19 16:04:58,CUST-341,SC,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Cartão de Crédito,Entregue
+ZOV-1328,2026-08-29 10:53:30,CUST-263,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Boleto Bancário,Inadimplente
+ZOV-1329,2026-09-24 09:06:20,CUST-216,MG,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Aprovado
+ZOV-1330,2026-05-21 14:00:22,CUST-318,SC,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Cartão de Crédito,Entregue
+ZOV-1331,2026-04-28 08:38:11,CUST-197,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Aprovado
+ZOV-1332,2026-08-26 10:46:20,CUST-279,DF,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1333,2026-04-06 23:57:55,CUST-201,MG,Moletons,Hoodie Boxy Fit Charcoal,3,319.9,105.0,959.7,315.0,644.7,Pix,Cancelado
+ZOV-1334,2026-04-03 20:36:17,CUST-321,BA,Camisetas,Camiseta Oversized Basic Black,3,139.9,45.0,419.7,135.0,284.7,Pix,Entregue
+ZOV-1335,2026-09-03 18:05:07,CUST-313,RJ,Calças,Calça Sweatpants Oversized Grey,2,219.9,70.0,439.8,140.0,299.8,Cartão de Crédito,Entregue
+ZOV-1336,2026-10-16 08:22:42,CUST-255,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1337,2026-05-27 23:10:42,CUST-148,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Aprovado
+ZOV-1338,2026-06-05 00:00:00,CUST-274,BA,Acessórios,Boné Dad Hat ZOVY Black,1,89.9,25.0,89.9,25.0,64.9,Cartão de Crédito,Entregue
+ZOV-1339,2026-09-08 03:32:15,CUST-331,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Entregue
+ZOV-1340,2026-09-13 01:26:07,CUST-179,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Boleto Bancário,Entregue
+ZOV-1341,2026-04-09 21:06:05,CUST-193,PE,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1342,2026-04-24 10:44:40,CUST-183,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1343,2026-07-16 06:23:41,CUST-151,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1344,2026-10-19 19:38:21,CUST-324,GO,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Boleto Bancário,Entregue
+ZOV-1345,2026-08-14 18:16:11,CUST-333,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1346,2026-05-13 09:21:21,CUST-333,SP,Moletons,Hoodie Boxy Fit Charcoal,4,319.9,105.0,1279.6,420.0,859.6,Cartão de Crédito,Entregue
+ZOV-1347,2026-06-15 12:19:56,CUST-305,SP,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Aprovado
+ZOV-1348,2026-07-29 02:44:29,CUST-136,BA,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1349,2026-09-21 14:28:09,CUST-347,RS,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Pix,Entregue
+ZOV-1350,2026-07-03 03:17:16,CUST-302,RJ,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Aprovado
+ZOV-1351,2026-04-04 09:37:43,CUST-237,MG,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Cancelado
+ZOV-1352,2026-07-26 13:25:11,CUST-272,RS,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Pix,Entregue
+ZOV-1353,2026-09-20 09:32:42,CUST-249,RJ,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Aprovado
+ZOV-1354,2026-09-11 13:31:29,CUST-127,SP,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Pix,Entregue
+ZOV-1355,2026-05-30 17:09:57,CUST-106,RJ,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Boleto Bancário,Inadimplente
+ZOV-1356,2026-08-22 11:56:32,CUST-334,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Entregue
+ZOV-1357,2026-05-27 23:34:49,CUST-116,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Entregue
+ZOV-1358,2026-07-28 11:00:08,CUST-266,DF,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1359,2026-04-30 05:05:20,CUST-111,SP,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Cartão de Crédito,Aprovado
+ZOV-1360,2026-06-17 17:56:09,CUST-129,SP,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Pix,Aprovado
+ZOV-1361,2026-05-31 19:34:17,CUST-134,PE,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Entregue
+ZOV-1362,2026-07-26 13:30:29,CUST-271,RS,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Aprovado
+ZOV-1363,2026-09-26 19:40:04,CUST-207,PR,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Pix,Aprovado
+ZOV-1364,2026-10-08 05:37:33,CUST-326,PE,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Cartão de Crédito,Entregue
+ZOV-1365,2026-09-15 03:36:18,CUST-313,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1366,2026-09-05 14:51:32,CUST-340,MG,Camisetas,Camiseta Heavyweight Urban Grey,3,159.9,52.0,479.7,156.0,323.7,Cartão de Crédito,Entregue
+ZOV-1367,2026-04-09 13:29:26,CUST-155,GO,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1368,2026-07-23 08:35:47,CUST-318,PR,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Entregue
+ZOV-1369,2026-04-26 13:22:27,CUST-239,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Cancelado
+ZOV-1370,2026-04-16 14:29:44,CUST-170,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Cancelado
+ZOV-1371,2026-05-02 16:33:20,CUST-123,SP,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Cartão de Crédito,Entregue
+ZOV-1372,2026-05-25 23:21:49,CUST-263,SP,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Entregue
+ZOV-1373,2026-04-06 01:50:29,CUST-301,RS,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Cancelado
+ZOV-1374,2026-06-02 04:35:05,CUST-301,DF,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1375,2026-04-18 20:10:41,CUST-153,RS,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1376,2026-05-30 11:57:44,CUST-298,MG,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1377,2026-10-19 21:41:56,CUST-100,PR,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Aprovado
+ZOV-1378,2026-05-08 04:43:58,CUST-238,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Cancelado
+ZOV-1379,2026-05-15 04:00:08,CUST-269,SP,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1380,2026-05-04 00:32:27,CUST-191,SC,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1381,2026-08-29 11:47:17,CUST-104,MG,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1382,2026-06-07 01:54:28,CUST-132,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Pix,Aprovado
+ZOV-1383,2026-07-17 19:09:15,CUST-129,SP,Calças,Calça Denim Straight Fit Dark Wash,4,279.9,90.0,1119.6,360.0,759.6,Pix,Entregue
+ZOV-1384,2026-04-17 17:20:22,CUST-214,SC,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Entregue
+ZOV-1385,2026-08-10 21:36:52,CUST-127,PR,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1386,2026-08-07 08:03:58,CUST-342,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Aprovado
+ZOV-1387,2026-04-12 23:59:23,CUST-233,MG,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1388,2026-07-27 23:25:23,CUST-346,RS,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1389,2026-04-16 17:26:21,CUST-316,SP,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Cartão de Crédito,Entregue
+ZOV-1390,2026-07-19 03:55:50,CUST-225,MG,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1391,2026-04-19 02:56:29,CUST-182,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Cancelado
+ZOV-1392,2026-04-17 04:35:40,CUST-170,DF,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1393,2026-09-10 21:18:44,CUST-240,SP,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Pix,Entregue
+ZOV-1394,2026-07-07 21:45:01,CUST-235,MG,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Aprovado
+ZOV-1395,2026-07-26 18:24:23,CUST-254,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Entregue
+ZOV-1396,2026-04-26 04:09:56,CUST-318,PE,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1397,2026-07-20 16:26:26,CUST-327,SP,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Pix,Aprovado
+ZOV-1398,2026-07-15 12:20:24,CUST-311,SP,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Entregue
+ZOV-1399,2026-07-12 15:08:44,CUST-286,SC,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1400,2026-06-20 15:32:16,CUST-180,PR,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Pix,Aprovado
+ZOV-1401,2026-06-05 13:37:40,CUST-344,SP,Camisetas,Camiseta Oversized Minimalist White,3,139.9,45.0,419.7,135.0,284.7,Pix,Aprovado
+ZOV-1402,2026-09-23 17:16:03,CUST-117,SC,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1403,2026-04-22 03:23:39,CUST-210,SP,Camisetas,Camiseta Oversized Basic Black,3,139.9,45.0,419.7,135.0,284.7,Pix,Entregue
+ZOV-1404,2026-10-08 13:34:03,CUST-307,RJ,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1405,2026-08-21 02:11:01,CUST-250,PE,Moletons,Moletom Crewneck ZOVY Arch,3,259.9,82.0,779.7,246.0,533.7,Pix,Entregue
+ZOV-1406,2026-08-22 12:00:07,CUST-271,SP,Calças,Calça Cargo Wide Leg Black,4,249.9,80.0,999.6,320.0,679.6,Pix,Entregue
+ZOV-1407,2026-07-15 12:52:26,CUST-323,SP,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Boleto Bancário,Cancelado
+ZOV-1408,2026-10-10 15:23:55,CUST-322,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Aprovado
+ZOV-1409,2026-06-13 21:51:36,CUST-179,BA,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1410,2026-04-27 21:02:28,CUST-229,SC,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Aprovado
+ZOV-1411,2026-05-10 23:54:39,CUST-223,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Boleto Bancário,Inadimplente
+ZOV-1412,2026-04-28 12:44:50,CUST-316,PR,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1413,2026-07-04 04:10:58,CUST-295,SP,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Pix,Aprovado
+ZOV-1414,2026-08-25 08:14:03,CUST-306,RS,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1415,2026-08-22 22:38:10,CUST-257,SC,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1416,2026-09-12 20:16:12,CUST-106,BA,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Inadimplente
+ZOV-1417,2026-04-08 06:34:07,CUST-169,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Entregue
+ZOV-1418,2026-06-26 12:46:49,CUST-101,RJ,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Entregue
+ZOV-1419,2026-05-07 20:37:08,CUST-268,RS,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Cartão de Crédito,Entregue
+ZOV-1420,2026-04-18 05:09:55,CUST-289,RS,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1421,2026-04-08 03:20:26,CUST-291,DF,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Entregue
+ZOV-1422,2026-05-26 13:41:48,CUST-207,SP,Calças,Calça Sweatpants Oversized Grey,3,219.9,70.0,659.7,210.0,449.7,Pix,Cancelado
+ZOV-1423,2026-06-27 05:43:51,CUST-194,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Cancelado
+ZOV-1424,2026-10-02 11:48:37,CUST-298,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1425,2026-04-14 05:39:52,CUST-140,RS,Moletons,Moletom Crewneck ZOVY Arch,3,259.9,82.0,779.7,246.0,533.7,Pix,Cancelado
+ZOV-1426,2026-04-13 02:58:13,CUST-169,PR,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Boleto Bancário,Entregue
+ZOV-1427,2026-09-17 15:26:16,CUST-224,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1428,2026-07-16 09:56:44,CUST-155,DF,Camisetas,Camiseta Oversized Basic Black,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1429,2026-06-28 15:39:09,CUST-128,RS,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Pix,Entregue
+ZOV-1430,2026-09-21 21:35:43,CUST-224,RS,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Pix,Entregue
+ZOV-1431,2026-09-18 11:13:45,CUST-111,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Cartão de Crédito,Aprovado
+ZOV-1432,2026-07-11 21:49:14,CUST-114,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1433,2026-05-23 10:58:27,CUST-342,PR,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Cartão de Crédito,Entregue
+ZOV-1434,2026-10-14 04:59:47,CUST-295,GO,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Cartão de Crédito,Entregue
+ZOV-1435,2026-06-14 11:56:47,CUST-130,PR,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Aprovado
+ZOV-1436,2026-08-06 15:40:46,CUST-144,BA,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1437,2026-07-07 19:23:26,CUST-280,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1438,2026-08-07 20:20:33,CUST-313,DF,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Cartão de Crédito,Entregue
+ZOV-1439,2026-06-30 02:37:27,CUST-201,SP,Acessórios,Shoulder Bag Tactical ZOVY,2,129.9,40.0,259.8,80.0,179.8,Cartão de Crédito,Aprovado
+ZOV-1440,2026-04-11 15:52:56,CUST-104,RJ,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Cartão de Crédito,Entregue
+ZOV-1441,2026-04-20 11:23:53,CUST-247,GO,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1442,2026-08-25 14:43:28,CUST-281,DF,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Entregue
+ZOV-1443,2026-06-14 04:11:36,CUST-203,SC,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Boleto Bancário,Cancelado
+ZOV-1444,2026-06-23 06:15:27,CUST-305,SP,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Aprovado
+ZOV-1445,2026-07-27 13:10:28,CUST-122,SC,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Aprovado
+ZOV-1446,2026-04-28 08:51:31,CUST-211,RJ,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Aprovado
+ZOV-1447,2026-08-13 02:51:48,CUST-201,SC,Camisetas,Camiseta Heavyweight Urban Grey,3,159.9,52.0,479.7,156.0,323.7,Cartão de Crédito,Entregue
+ZOV-1448,2026-10-08 12:21:40,CUST-156,MG,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Pix,Aprovado
+ZOV-1449,2026-10-17 06:07:17,CUST-119,RS,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Boleto Bancário,Inadimplente
+ZOV-1450,2026-08-14 18:34:00,CUST-149,MG,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Cartão de Crédito,Aprovado
+ZOV-1451,2026-06-29 23:29:59,CUST-308,SP,Acessórios,Boné Dad Hat ZOVY Black,2,89.9,25.0,179.8,50.0,129.8,Cartão de Crédito,Entregue
+ZOV-1452,2026-05-31 03:44:34,CUST-137,MG,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1453,2026-05-21 06:19:00,CUST-254,RS,Moletons,Hoodie Oversized Essential Black,2,289.9,95.0,579.8,190.0,389.8,Pix,Entregue
+ZOV-1454,2026-10-12 23:51:58,CUST-119,PR,Moletons,Hoodie Oversized Essential Black,2,289.9,95.0,579.8,190.0,389.8,Pix,Entregue
+ZOV-1455,2026-10-15 22:51:46,CUST-226,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Cancelado
+ZOV-1456,2026-10-11 20:31:29,CUST-294,MG,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Aprovado
+ZOV-1457,2026-07-24 20:33:09,CUST-264,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Aprovado
+ZOV-1458,2026-09-08 11:30:36,CUST-138,SP,Acessórios,Benei Beanie Streetwear Grey,1,79.9,22.0,79.9,22.0,57.9,Pix,Aprovado
+ZOV-1459,2026-04-18 17:04:22,CUST-213,MG,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Cartão de Crédito,Aprovado
+ZOV-1460,2026-06-10 21:31:58,CUST-114,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1461,2026-08-08 02:42:04,CUST-179,RS,Moletons,Hoodie Boxy Fit Charcoal,1,319.9,105.0,319.9,105.0,214.9,Pix,Entregue
+ZOV-1462,2026-07-25 01:22:09,CUST-114,RJ,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1463,2026-06-13 02:47:37,CUST-265,MG,Calças,Calça Cargo Wide Leg Black,1,249.9,80.0,249.9,80.0,169.9,Cartão de Crédito,Cancelado
+ZOV-1464,2026-09-05 21:37:47,CUST-229,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1465,2026-07-28 21:07:44,CUST-241,DF,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Pix,Entregue
+ZOV-1466,2026-04-11 16:22:27,CUST-332,PE,Calças,Calça Denim Straight Fit Dark Wash,1,279.9,90.0,279.9,90.0,189.9,Cartão de Crédito,Aprovado
+ZOV-1467,2026-09-14 06:51:12,CUST-182,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Aprovado
+ZOV-1468,2026-08-07 05:29:33,CUST-345,RJ,Moletons,Hoodie Oversized Essential Black,1,289.9,95.0,289.9,95.0,194.9,Pix,Entregue
+ZOV-1469,2026-07-25 03:46:06,CUST-307,SC,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1470,2026-09-30 03:04:13,CUST-229,PR,Moletons,Moletom Crewneck ZOVY Arch,1,259.9,82.0,259.9,82.0,177.9,Cartão de Crédito,Aprovado
+ZOV-1471,2026-05-15 01:25:30,CUST-163,PR,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Entregue
+ZOV-1472,2026-07-22 15:59:55,CUST-234,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Cartão de Crédito,Aprovado
+ZOV-1473,2026-09-04 05:46:47,CUST-193,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1474,2026-06-12 14:06:19,CUST-204,SP,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1475,2026-09-21 21:46:06,CUST-113,PR,Calças,Calça Denim Straight Fit Dark Wash,2,279.9,90.0,559.8,180.0,379.8,Pix,Entregue
+ZOV-1476,2026-09-13 12:11:03,CUST-116,SP,Camisetas,Camiseta Heavyweight Urban Grey,2,159.9,52.0,319.8,104.0,215.8,Pix,Entregue
+ZOV-1477,2026-04-25 20:18:53,CUST-273,RS,Calças,Calça Sweatpants Oversized Grey,3,219.9,70.0,659.7,210.0,449.7,Pix,Entregue
+ZOV-1478,2026-06-12 09:10:29,CUST-285,MG,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Entregue
+ZOV-1479,2026-06-25 02:58:02,CUST-249,RJ,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1480,2026-06-29 11:17:42,CUST-347,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Cartão de Crédito,Entregue
+ZOV-1481,2026-05-04 21:39:53,CUST-281,SP,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1482,2026-06-19 20:20:59,CUST-196,MG,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Boleto Bancário,Entregue
+ZOV-1483,2026-05-03 19:09:55,CUST-123,PR,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1484,2026-08-09 13:10:25,CUST-104,PE,Camisetas,Camiseta Heavyweight Urban Grey,1,159.9,52.0,159.9,52.0,107.9,Pix,Entregue
+ZOV-1485,2026-06-19 06:33:47,CUST-343,SP,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Aprovado
+ZOV-1486,2026-06-27 17:42:16,CUST-149,DF,Camisetas,Camiseta Oversized Minimalist White,3,139.9,45.0,419.7,135.0,284.7,Pix,Entregue
+ZOV-1487,2026-05-06 05:38:28,CUST-119,MG,Calças,Calça Sweatpants Oversized Grey,4,219.9,70.0,879.6,280.0,599.6,Pix,Cancelado
+ZOV-1488,2026-10-19 03:40:56,CUST-229,RJ,Camisetas,Camiseta Oversized Basic Black,1,139.9,45.0,139.9,45.0,94.9,Cartão de Crédito,Aprovado
+ZOV-1489,2026-09-17 12:15:40,CUST-324,MG,Moletons,Moletom Crewneck ZOVY Arch,2,259.9,82.0,519.8,164.0,355.8,Cartão de Crédito,Entregue
+ZOV-1490,2026-05-04 21:44:42,CUST-196,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1491,2026-05-12 06:35:03,CUST-312,SP,Acessórios,Shoulder Bag Tactical ZOVY,1,129.9,40.0,129.9,40.0,89.9,Pix,Entregue
+ZOV-1492,2026-10-15 22:44:45,CUST-307,SP,Camisetas,Camiseta Oversized Minimalist White,1,139.9,45.0,139.9,45.0,94.9,Pix,Entregue
+ZOV-1493,2026-10-02 15:56:06,CUST-111,GO,Calças,Calça Sweatpants Oversized Grey,1,219.9,70.0,219.9,70.0,149.9,Cartão de Crédito,Entregue
+ZOV-1494,2026-07-03 08:38:53,CUST-348,SP,Camisetas,Camiseta Graphic Streetwear Off-White,1,169.9,55.0,169.9,55.0,114.9,Pix,Entregue
+ZOV-1495,2026-09-04 10:22:26,CUST-292,SP,Acessórios,Shoulder Bag Tactical ZOVY,3,129.9,40.0,389.7,120.0,269.7,Cartão de Crédito,Entregue
+ZOV-1496,2026-10-18 16:20:41,CUST-159,BA,Camisetas,Camiseta Oversized Minimalist White,2,139.9,45.0,279.8,90.0,189.8,Pix,Entregue
+ZOV-1497,2026-06-19 17:04:34,CUST-331,SP,Calças,Calça Cargo Wide Leg Black,3,249.9,80.0,749.7,240.0,509.7,Pix,Entregue
+ZOV-1498,2026-07-04 20:46:06,CUST-212,GO,Moletons,Hoodie Boxy Fit Charcoal,2,319.9,105.0,639.8,210.0,429.8,Cartão de Crédito,Entregue
+ZOV-1499,2026-10-14 10:15:32,CUST-299,SP,Camisetas,Camiseta Graphic Streetwear Off-White,2,169.9,55.0,339.8,110.0,229.8,Pix,Entregue
+ZOV-1500,2026-08-07 19:12:15,CUST-207,RJ,Moletons,Hoodie Oversized Essential Black,2,289.9,95.0,579.8,190.0,389.8,Boleto Bancário,Entregue

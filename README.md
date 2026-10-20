@@ -1,4 +1,4 @@
-# Dashboard de Performance Comercial e Inadimplência | ZOVY Streetwear
+# Dashboard de Performance Comercial E-commerce | ZOVY Streetwear
 
 Este projeto consiste na construção de um dashboard interativo no **Microsoft Excel** para análise do histórico de vendas no e-commerce da marca fictícia de streetwear **ZOVY**.
 

@@ -45,4 +45,4 @@ A análise foi estruturada para responder a três perguntas estratégicas da dir
 
 - `vendas_zovy_ecommerce.csv`: Base de dados sintética utilizada no estudo de caso.
 - `dashboard_zovy.xlsx`: Arquivo contendo o painel interativo, tabelas dinâmicas e análises auxiliares.
-- `dashboard_zovy.jpg`: Captura de tela em alta resolução do painel finalizado.
+- `dashboardpreview.png`: Captura de tela em alta resolução do painel finalizado.
